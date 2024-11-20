@@ -8,14 +8,23 @@ LinkAnalyze is a user-friendly news research tool designed for effortless inform
 ### ⚙️🚀 Technologies and Frameworks Utilized
 
 langchain
+
 python-dotenv
+
 streamlit
+
 unstructured
+
 tiktoken
+
 faiss-cpu
+
 libmagic
+
 python-magic
+
 python-magic-bin
+
 OpenAI
 
 ## 💡Features
