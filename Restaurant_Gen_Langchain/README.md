@@ -15,9 +15,13 @@ Acknowledging the widespread demand for utilizing LLM, I developed this introduc
 ### ⚙️🚀 Technologies and Frameworks Utilized
 
 Python
+
 Streamlit
+
 OpenAI
+
 Langchain
+
 google-search-results
 
 ### 💡Features
