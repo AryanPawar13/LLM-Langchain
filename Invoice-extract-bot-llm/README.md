@@ -11,8 +11,11 @@ Acknowledging the widespread demand for data extraction solutions utilizing LLM,
 ### ⚙️🚀 Technologies and Frameworks Utilized
 
 Python
+
 Streamlit
+
 OpenAI
+
 Langchain
 
 ### 💡Features
